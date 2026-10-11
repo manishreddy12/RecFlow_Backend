@@ -88,7 +88,7 @@ Clean up the code a bit and add some comments, add a few more tests, and make th
 
 ## AI usage
 
-I used an AI coding assistant (Anti Gravity) while building this. It helped scaffold the Flask app, the SQL and the tests from the assignment spec. I went through the code, ran it and tested the endpoints myself.
+I used an AI coding assistant (Anti Gravity) while building this. It helped scaffold the Flask app, the SQL and the tests from the assignment spec. I architected the app, ran it and tested the endpoints myself.
 
 ## Part 2
 
